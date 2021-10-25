@@ -1,0 +1,3 @@
+git remoto agregar origen https://github.com/Chapo1996/viruzactivado.git
+ rama git -M principal 
+git push -u origen principal
